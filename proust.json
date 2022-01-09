@@ -1,6 +1,7 @@
 {
     "title": "Write like Proust",
     "color": "#5436da",
+    "sampleResponse": "Sample response", 
     "tags": ["text-generation"],
     "img": "https://raw.githubusercontent.com/iacolippo/test-examples/master/assets/signature_white.svg",
     "description": "Write like one of the most influential authors of the 20th century.",
