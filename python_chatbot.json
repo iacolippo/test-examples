@@ -3,7 +3,8 @@
     "img": "https://raw.githubusercontent.com/iacolippo/test-examples/master/assets/chatbot_white.svg",
     "description": "Get help with Python from the chatbot Eve.", 
     "color": "#19c37d",
-    "tags": ["text-generation"],
+    "sampleResponse": "Sample response",
+    "tags": ["chatbot"],
     "model": "lyra-en",
     "request": {"text": "Eve is an helpful chatbot knowledgeable about Python.\n\nYou: How do I sort an array?\nEve: You can use the sort() method.\nYou: How do I remove the last element of an array?\nEve:\n",
                 "params": {
