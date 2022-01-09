@@ -1,6 +1,6 @@
 {
     "title": "Eve, the Python Chatbot",
-    "img": "https://raw.githubusercontent.com/iacolippo/test-examples/master/assets/chatbot.svg",
+    "img": "https://raw.githubusercontent.com/iacolippo/test-examples/master/assets/chatbot_white.svg",
     "description": "Get help with Python from the chatbot Eve.", 
     "color": "#19c37d",
     "tags": ["text-generation"],
