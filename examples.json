@@ -1,6 +1,7 @@
 [{
     "title": "Write like Proust",
     "color": "#5436da",
+    "sandboxHeader": "Discover Muse trying to match Marcel Proust!",
     "sampleResponse": "Sample response", 
     "tags": ["text-generation"],
     "img": "https://raw.githubusercontent.com/iacolippo/test-examples/master/assets/signature_white.svg",
@@ -19,6 +20,7 @@
     "img": "https://raw.githubusercontent.com/iacolippo/test-examples/master/assets/chatbot_white.svg",
     "description": "Get help with Python from the chatbot Eve.", 
     "color": "#19c37d",
+    "sandboxHeader": "Want to learn more about Python? Ask Muse!",
     "sampleResponse": "Sample response",
     "tags": ["chatbot"],
     "model": "lyra-en",
